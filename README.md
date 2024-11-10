@@ -1,4 +1,5 @@
 # State Management in React - Group 3 Assignment
+[react-state-and-hook-support-doc.docx](https://github.com/user-attachments/files/17691165/react-state-and-hook-support-doc.docx)
 
 Names:ISHIMWE Thierry Henry
 
